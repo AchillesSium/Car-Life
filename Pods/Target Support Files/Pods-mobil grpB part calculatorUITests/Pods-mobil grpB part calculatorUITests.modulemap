@@ -1,0 +1,6 @@
+framework module Pods_mobil_grpB_part_calculatorUITests {
+  umbrella header "Pods-mobil grpB part calculatorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
